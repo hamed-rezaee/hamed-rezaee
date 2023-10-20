@@ -1,4 +1,4 @@
-<a href="https://stackexchange.com/users/13086787"><img src="https://stackexchange.com/users/flair/13086787.png" width="208" height="58" alt="profile for Hamed on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hamed on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/13086787"><img src="https://stackexchange.com/users/flair/13086787.png?theme=clean" width="208" height="58" alt="profile for Hamed on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Hamed on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <p align="center">
 	<picture>
